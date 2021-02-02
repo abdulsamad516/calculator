@@ -1,0 +1,26 @@
+.calculator{
+      width: 200px;
+      height: 600px;
+      margin: 0 auto;
+      background: linear-gradient(orange,blue);
+}
+
+.calculator input{
+      width: 100%;
+      padding: 10px;
+}
+
+.btnbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btn{
+    padding: 15px;
+    margin: 5px;
+}
+
+.samad{
+    background-image: url(https://wallpaperaccess.com/full/232875.jpg);
+}
